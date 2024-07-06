@@ -1,5 +1,5 @@
 # Testing-GitHub-functions
 ## header with 2 hashtags 
 
-Private testing <br>
-hi 
+**this is a bold text**
+*and this is italic*
